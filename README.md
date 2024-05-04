@@ -1,0 +1,1 @@
+ Explore the Car Insurance Claims dataset using Tableau to create insightful visualizations. Understand accident patterns, claim trends, and propose recommendations for the insurance company. Emphasize clarity, interactivity, and logical flow in your storyboards
